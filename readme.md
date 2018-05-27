@@ -1,6 +1,4 @@
-# Nodes Galactic Carousel
-
-Yello!
+# ⛔️ [DEPRECATED] Nodes Galactic Carousel
 
 This is a simple carousel
 
@@ -25,7 +23,7 @@ vm.firstText = nCarouselUtil.convertFooterText(vm.firstText);
 vm.firstHeadline = nCarouselUtil.convertText(vm.firstHeadline);
 ```
 
-Aaand html
+And html
 
 ```html
 <n-carousel images="firstImages" text="firstText" headline="firstHeadline"></n-carousel>
