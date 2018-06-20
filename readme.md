@@ -1,4 +1,5 @@
-# ⛔️ [DEPRECATED] Nodes Galactic Carousel
+# Nodes Galactic Carousel
+_Not maintained by Nodes anymore_
 
 This is a simple carousel
 
